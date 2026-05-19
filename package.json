@@ -1,0 +1,7 @@
+{
+  "name": "qa-assignment-root",
+  "private": true,
+  "scripts": {
+    "contact:test": "npm --prefix safora-assignment run contact:test"
+  }
+}

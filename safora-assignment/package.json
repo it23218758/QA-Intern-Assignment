@@ -1,0 +1,12 @@
+{
+  "name": "safora-assignment",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "contact:test": "node part-2-playwright.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.54.0"
+  }
+}
